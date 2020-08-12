@@ -100,6 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'Git exercise',
             ),
+            Text('Ivna'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,

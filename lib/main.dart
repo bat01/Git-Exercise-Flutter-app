@@ -104,6 +104,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'New Branch',
               style: Theme.of(context).textTheme.headline4,
             ),
+            Text('newText2'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
